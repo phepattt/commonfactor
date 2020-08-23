@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
+// lab 1 
+
 int main()
 {
 	int A, B = 2;
