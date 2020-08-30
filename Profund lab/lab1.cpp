@@ -22,4 +22,5 @@ int main()
 	{
 		printf(" %d ", B);
 	}
+	return 0;
 }
